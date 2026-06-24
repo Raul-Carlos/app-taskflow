@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow",
+  "description": "Um aplicativo de gerenciamento de tarefas altamente funcional, elegante e completo baseado no wireframe de referência e referências visuais.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
